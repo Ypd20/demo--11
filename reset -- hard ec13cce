@@ -1,0 +1,25 @@
+[33mc40d0ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to c40d0ab
+[33mcec3451[m HEAD@{1}: reset: moving to cec3451
+[33m3a25acb[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{2}: reset: moving to 3a25acb
+[33mec13cce[m HEAD@{3}: commit: Updating Readme again
+[33mea256cb[m HEAD@{4}: commit: updating license
+[33m3a25acb[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{5}: reset: moving to HEAD
+[33m3a25acb[m[33m ([m[1;33mtag: v1.0[m[33m)[m HEAD@{6}: commit: updating ignore
+[33mddd1ac0[m HEAD@{7}: commit (merge): resolving conflict
+[33m15c4f73[m HEAD@{8}: commit: issue ocurs
+[33mb94d93f[m HEAD@{9}: checkout: moving from very-bad to master
+[33m987b419[m[33m ([m[1;32mvery-bad[m[33m)[m HEAD@{10}: commit: very bad update
+[33mb94d93f[m HEAD@{11}: checkout: moving from master to very-bad
+[33mb94d93f[m HEAD@{12}: merge updates: Fast-forward
+[33mcec3451[m HEAD@{13}: checkout: moving from updates to master
+[33mb94d93f[m HEAD@{14}: commit: adding updates from branch
+[33mcec3451[m HEAD@{15}: checkout: moving from master to updates
+[33mcec3451[m HEAD@{16}: commit: adding gitignore file
+[33m79892a7[m HEAD@{17}: commit: remove myfile.txt
+[33m21d3368[m HEAD@{18}: commit: rename and adding file
+[33me0949c0[m HEAD@{19}: commit: deleting demo file
+[33me512d96[m HEAD@{20}: commit: renaming example file
+[33mf84d2a1[m HEAD@{21}: commit: adding examole file
+[33mc40d0ab[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{22}: commit: Updating README
+[33m5c124fa[m HEAD@{23}: commit: Adding README and LICENSE file
+[33m16c2358[m HEAD@{24}: commit (initial): Demo file for demo repo
